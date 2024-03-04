@@ -83,6 +83,10 @@
 .policy-item .text {
   margin-bottom: 3rem;
 }
+.policy-item {
+  max-width: 45rem;
+  margin: 0 auto;
+}
 
 .contacts {
   padding: 12rem 0;
